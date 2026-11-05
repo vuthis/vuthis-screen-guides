@@ -6,6 +6,10 @@ Practical resources for home TVs, meeting-room displays, classroom projectors an
 
 ![A PDF displayed on a TV with page controls on a phone](https://vuthis.com/assets/pages/display-pdf-on-tv-from-phone.jpg)
 
+## Choose your TV, projector or classroom setup
+
+[Show PDFs and photos on Samsung, Sony and professional screens](premium-tv-projector-device-guide.md): MacBook/Surface presentations, conference projectors, hotel displays and classroom panels. Includes browser routes for Apple, Dell, HP, Lenovo, Epson, BenQ, Panasonic, SMART and Promethean equipment.
+
 ## Choose the result
 
 | What you want on the screen | Walkthrough |
