@@ -6,6 +6,10 @@ Practical resources for home TVs, meeting-room displays, classroom projectors an
 
 ![A PDF displayed on a TV with page controls on a phone](https://vuthis.com/assets/pages/display-pdf-on-tv-from-phone.jpg)
 
+## Read the guide library
+
+[**PDFs, slides and photos on TV: open the walkthroughs**](https://vuthis.github.io/vuthis-screen-guides/) — a readable guide library for PDF presentations, photo slideshows, laptops, meeting rooms and device setups.
+
 ## Choose your TV, projector or classroom setup
 
 [Show PDFs and photos on Samsung, Sony and professional screens](premium-tv-projector-device-guide.md): MacBook/Surface presentations, conference projectors, hotel displays and classroom panels. Includes browser routes for Apple, Dell, HP, Lenovo, Epson, BenQ, Panasonic, SMART and Promethean equipment.
@@ -57,5 +61,5 @@ Export the slides to PDF, choose the PDF in Document and select Show now. Use Pr
 
 [Large text](https://vuthis.com/large-text-display) · [Notices](https://vuthis.com/digital-notice-board-on-tv) · [Timers](https://vuthis.com/full-screen-countdown-timer) · [QR codes](https://vuthis.com/display-qr-code-on-tv) · [Display playlist](https://vuthis.com/digital-signage-playlist) · [Counters](https://vuthis.com/full-screen-tally-counter) · [Clocks](https://vuthis.com/clock-display-on-tv)
 
-Resources created by the V U This team. Updated 4 November 2026. This repository contains public instructions and campaign resources; the app is available at vuthis.com. Product images and brand assets remain the property of their respective owners.
+Resources created by the V U This team. Updated 5 November 2026. This repository contains public instructions and campaign resources; the app is available at vuthis.com. Product images and brand assets remain the property of their respective owners.
 
